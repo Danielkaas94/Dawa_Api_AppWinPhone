@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Files><file>\Dawa_Api_Phone.exe</file><file>\Newtonsoft.Json.dll</file></Files>
