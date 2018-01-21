@@ -3,7 +3,7 @@ Windows Phone 8.1 using the dawa-api, with map features &amp; Email 📧📜📲
 
 ### Hello World! Coders! 💻
 
-Greetings! Okay, let's do it! As you can see, it is an app for Windows Phone 8.1 written in C# code.
+Greetings all sentient beings! Okay, let's do it! As you can see, it is an app for Windows Phone 8.1 written in C# code.
 You can find every danish adress with this app. 
 
 First of all. 
@@ -11,7 +11,7 @@ I want to say, that if you use an emulator, you cannot use the E-mail part, unle
 In the code I have made a little map embedded into the //Comment, to help you to find out, what is the flow of the program.
 
 
-Here is an example at line 17 from "MainPage.xaml.cs":
+Here is an example at line 17 from "MainPage.xaml.cs": 👀
 
 // Page Flow: *MainPage* --> ZipPage --> StreetNamePage --> HouseNumberingPage --> MapPage
 
@@ -23,7 +23,7 @@ The asterisk-stars (*Page*), tells what is the current page you are on, the arro
 How I go from MainPage to ZipPage is very simple. I use Frame.Navigate(typeof(PageName), objectIWantToSend);
 
 
-Here is an example at line 56 from "MainPage.xaml.cs":
+Here is an example at line 56 from "MainPage.xaml.cs": 👀
 
 Frame.Navigate(typeof(ZipPage), zipAdresseInfo);
 
