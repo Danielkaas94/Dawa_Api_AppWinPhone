@@ -1,11 +1,11 @@
 # Dawa_Api_AppWinPhone
 Windows Phone 8.1 using the dawa-api, with map features &amp; Email 📧📜📲📄🌍
 
-API-Page: https://dawa.aws.dk/
+### API-Page: https://dawa.aws.dk/
 
-Sketch: https://xd.adobe.com/view/47368fca-5b8c-4818-bd5f-d8e27e7db7c0/
+### Sketch: https://xd.adobe.com/view/47368fca-5b8c-4818-bd5f-d8e27e7db7c0/
 
-### Hello World! Coders! 💻
+# Hello World! Coders! 💻
 
 Greetings all sentient beings! Okay, let's do it! As you can see, it is an app for Windows Phone 8.1 written in C# code.
 You can find every danish adress with this app. 
@@ -22,7 +22,7 @@ Here is an example at line 17 from "MainPage.xaml.cs": 👀
 The asterisk-stars (*Page*), tells what is the current page you are on, the arrow points the next Page.
 
 
-#### Navigation  🌍
+## Navigation  🌍
 
 How I go from MainPage to ZipPage is very simple. I use Frame.Navigate(typeof(PageName), objectIWantToSend);
 
@@ -31,7 +31,7 @@ Here is an example at line 56 from "MainPage.xaml.cs": 👀
 
 Frame.Navigate(typeof(ZipPage), zipAdresseInfo);
 
-#### Final Note! 📜📌
+## Final Note! 📜📌
 
 As A final note, I want to say that my app is potent with RegularExpressions.
 
