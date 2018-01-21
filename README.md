@@ -20,7 +20,7 @@ The asterisk-stars (*Page*), tells what is the current page you are on, the arro
 
 #### Navigation
 
-How I go from MainPage to ZipPage is very simple. I use Frame.Navigate(typeof(PageName) objectIWantToSend);
+How I go from MainPage to ZipPage is very simple. I use Frame.Navigate(typeof(PageName), objectIWantToSend);
 
 
 Here is an example at line 56 from "MainPage.xaml.cs":
