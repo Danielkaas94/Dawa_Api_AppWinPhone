@@ -18,7 +18,7 @@ Here is an example at line 17 from "MainPage.xaml.cs": 👀
 The asterisk-stars (*Page*), tells what is the current page you are on, the arrow points the next Page.
 
 
-#### Navigation 🌍
+#### Navigation  🌍
 
 How I go from MainPage to ZipPage is very simple. I use Frame.Navigate(typeof(PageName), objectIWantToSend);
 
