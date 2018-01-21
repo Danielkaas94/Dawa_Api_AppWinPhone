@@ -30,7 +30,7 @@ Frame.Navigate(typeof(ZipPage), zipAdresseInfo);
 
 As A final note, I want to say that my app is potent with RegularExpressions.
 
-Regex regexPhoneNumber = new Regex("^[0-9]+$");
+// Regex regexPhoneNumber = new Regex("^[0-9]+$");
 
 So you need to write a valid Name, PhoneNumber & Email to pass on to the next page.
 Do not worry, nothing is being saved, it's not a scam :-)
