@@ -27,7 +27,7 @@ Here is an example at line 56 from "MainPage.xaml.cs":
 
 Frame.Navigate(typeof(ZipPage), zipAdresseInfo);
 
-#### Final Note!
+#### Final Note! 📜
 
 As A final note, I want to say that my app is potent with RegularExpressions.
 
