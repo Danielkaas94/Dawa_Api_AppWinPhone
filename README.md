@@ -1,7 +1,7 @@
 # Dawa_Api_AppWinPhone
 Windows Phone 8.1 using the dawa-api, with map features &amp; Email 📧📜📲📄🌍
 
-### Hello World! Coders!
+### Hello World! Coders! 💻
 
 Greetings! Okay, let's do it! As you can see, it is an app for Windows Phone 8.1 written in C# code.
 You can find every danish adress with this app. 
@@ -18,7 +18,7 @@ Here is an example at line 17 from "MainPage.xaml.cs":
 The asterisk-stars (*Page*), tells what is the current page you are on, the arrow points the next Page.
 
 
-#### Navigation
+#### Navigation 🌍
 
 How I go from MainPage to ZipPage is very simple. I use Frame.Navigate(typeof(PageName), objectIWantToSend);
 
