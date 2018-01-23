@@ -53,7 +53,7 @@ namespace Dawa_Api_Phone
                 zipAdresseInfo.Name = textBox_Name.Text;
                 zipAdresseInfo.PhoneNumber = textBox_Cellphone.Text;
                 zipAdresseInfo.Email = textBox_Email.Text;
-                Frame.Navigate(typeof(ZipPage), zipAdresseInfo);
+                Frame.Navigate(typeof(ZipPage), zipAdresseInfo); // Navigate to the next page.
             }
             else
             {
