@@ -28,7 +28,7 @@ How I go from MainPage to ZipPage is very simple. I use Frame.Navigate(typeof(Pa
 
 
 Here is an example at line 56 from "MainPage.xaml.cs": 👀
-```
+```csharp
 Frame.Navigate(typeof(ZipPage), zipAdresseInfo);
 ```
 ## Final Note! 📜📌
