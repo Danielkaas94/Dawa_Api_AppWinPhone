@@ -27,9 +27,22 @@ The asterisk-stars (*Page*), tells what is the current page you are on, the arro
 How I go from MainPage to ZipPage is very simple. I use Frame.Navigate(typeof(PageName), objectIWantToSend);
 
 
-Here is an example at line 56 from "MainPage.xaml.cs": 👀
+Here is an example, starting at line 49 from "MainPage.xaml.cs": 👀
 ```csharp
-Frame.Navigate(typeof(ZipPage), zipAdresseInfo);
+        private void button_Next_Click(object sender, RoutedEventArgs e)
+        {
+            if (phoneNumberIsLegit == true && nameIsLegit == true && emailIsLegit == true)
+            {
+                zipAdresseInfo.Name = textBox_Name.Text;
+                zipAdresseInfo.PhoneNumber = textBox_Cellphone.Text;
+                zipAdresseInfo.Email = textBox_Email.Text;
+                Frame.Navigate(typeof(ZipPage), zipAdresseInfo); // Navigate to the next page.
+            }
+            else
+            {
+                PaintAllBordersRed();
+            }
+        }
 ```
 ## Final Note! 📜📌
 
