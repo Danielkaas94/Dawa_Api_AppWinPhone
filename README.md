@@ -16,9 +16,9 @@ In the code I have made a little map embedded into the //Comment, to help you to
 
 
 Here is an example at line 17 from "MainPage.xaml.cs": 👀
-
+```
 // Page Flow: *MainPage* --> ZipPage --> StreetNamePage --> HouseNumberingPage --> MapPage
-
+```
 The asterisk-stars (*Page*), tells what is the current page you are on, the arrow points the next Page.
 
 
@@ -28,14 +28,14 @@ How I go from MainPage to ZipPage is very simple. I use Frame.Navigate(typeof(Pa
 
 
 Here is an example at line 56 from "MainPage.xaml.cs": 👀
-
+```
 Frame.Navigate(typeof(ZipPage), zipAdresseInfo);
-
+```
 ## Final Note! 📜📌
 
 As A final note, I want to say that my app is potent with RegularExpressions.
-
+``````
 // Regex regexPhoneNumber = new Regex("^[0-9]+$");
-
+```
 So you need to write a valid Name, PhoneNumber & Email to pass on to the next page.
 Do not worry, nothing is being saved, it's not a scam :-)
