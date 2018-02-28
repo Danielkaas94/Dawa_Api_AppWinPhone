@@ -61,8 +61,7 @@ Regex regexEmail = new Regex(strRegexEmail);
 So you need to write a valid Name, PhoneNumber & Email to pass on to the next page.
 Do not worry, nothing is being saved, it's not a scam :-)
 
+Please see also our [Code of Conduct](CODE_OF_CONDUCT.md).
 <p align="center">
   <img alt="CMDFun in Action!" src="http://www.windowsteca.net/wp-content/uploads/2014/03/WindowsPhone8-1.jpg">
 </p>
-
-Please see also our [Code of Conduct](CODE_OF_CONDUCT.md).
