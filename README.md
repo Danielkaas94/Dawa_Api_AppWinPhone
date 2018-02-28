@@ -55,3 +55,5 @@ Regex regexEmail = new Regex(strRegexEmail); // E-Mail
 ```
 So you need to write a valid Name, PhoneNumber & Email to pass on to the next page.
 Do not worry, nothing is being saved, it's not a scam :-)
+
+Please see also our [Code of Conduct](CODE_OF_CONDUCT.md).
