@@ -1,4 +1,9 @@
 # Dawa-API App Windows Phone 8.1
+
+<p align="center">
+  <img alt="CMDFun in Action!" src="https://img4.keyforweb.it/wp-content/uploads/2014/04/windows-phone-8-1.jpg">
+</p>
+
 Windows Phone 8.1 using the dawa-api, with map features &amp; Email 📧📜📲📄🌍
 
 ### API-Page: https://dawa.aws.dk/
