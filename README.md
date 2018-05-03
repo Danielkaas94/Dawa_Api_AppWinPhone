@@ -59,7 +59,7 @@ string strRegexEmail = @"^([a-zA-Z0-9_\-\.]+)@((\[[0-9]{1,3}" + @"\.[0-9]{1,3}\.
 Regex regexEmail = new Regex(strRegexEmail); 
 ```
 So you need to write a valid Name, PhoneNumber & Email to pass on to the next page.
-Do not worry, nothing is being saved, it's not a scam :-)
+Do not worry, nothing is being saved, it's not a scam 😉
 
 Please see also our [Code of Conduct](CODE_OF_CONDUCT.md).
 <p align="center">
