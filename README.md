@@ -46,7 +46,7 @@ Here is an example, starting at line 49 from "MainPage.xaml.cs": 👀
 ```
 ## Final Note! 📜📌
 
-As A final note, I want to say that my app is potent with RegularExpressions.
+As a final note, I want to say that my app is potent with RegularExpressions.
 ```csharp
 // Name
 Regex regexName = new Regex("[A-Za-z.'\\-\\p{L}\\p{Zs}\\p{Lu}\\p{Ll}\']+$");
