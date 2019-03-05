@@ -107,3 +107,8 @@ Please see also our [Code of Conduct](CODE_OF_CONDUCT.md).
 <p align="center">
   <img alt="CMDFun in Action!" src="http://www.windowsteca.net/wp-content/uploads/2014/03/WindowsPhone8-1.jpg">
 </p>
+
+Join CodeWars with me!: www.codewars.com/r/hGyTsQ
+<p>
+  <img alt="CodeWars Badge" src="https://www.codewars.com/users/Danielkaas94/badges/large">
+</p>
