@@ -62,12 +62,40 @@ So you need to write a valid Name, PhoneNumber & Email to pass on to the next pa
 Do not worry, nothing is being saved, it's not a scam 😉
 
 ## ScreenShot 📱
+### First page - Form
 <p align="center">
   <img alt="CMDFun in Action!" width="300" src="https://github.com/Danielkaas94/Dawa_Api_AppWinPhone/blob/master/Dawa_Api_Phone/Assets/wp_ss_20170920_0001.png?raw=true">
 </p>
 
+### First page - Form Validation
 
+<p align="center">
+  <img alt="CMDFun in Action!" width="300" src="https://github.com/Danielkaas94/Dawa_Api_AppWinPhone/blob/master/Dawa_Api_Phone/Assets/wp_ss_20170920_0002.png?raw=true">
+</p>
 
+### Second page - Zip Code
+
+<p align="center">
+  <img alt="CMDFun in Action!" width="300" src="https://github.com/Danielkaas94/Dawa_Api_AppWinPhone/blob/master/Dawa_Api_Phone/Assets/wp_ss_20170920_0003.png?raw=true">
+</p>
+
+### Third page - Street Names
+
+<p align="center">
+  <img alt="CMDFun in Action!" width="300" src="https://github.com/Danielkaas94/Dawa_Api_AppWinPhone/blob/master/Dawa_Api_Phone/Assets/wp_ss_20170920_0004.png?raw=true">
+</p>
+
+### Fourth page - House Number
+
+<p align="center">
+  <img alt="CMDFun in Action!" width="300" src="https://github.com/Danielkaas94/Dawa_Api_AppWinPhone/blob/master/Dawa_Api_Phone/Assets/wp_ss_20170920_0005.png?raw=true">
+</p>
+
+### Fifth page - Map 🌍
+
+<p align="center">
+  <img alt="CMDFun in Action!" width="300" src="https://github.com/Danielkaas94/Dawa_Api_AppWinPhone/blob/master/Dawa_Api_Phone/Assets/wp_ss_20170920_0006.png?raw=true">
+</p>
 
 
 Please see also our [Code of Conduct](CODE_OF_CONDUCT.md).
